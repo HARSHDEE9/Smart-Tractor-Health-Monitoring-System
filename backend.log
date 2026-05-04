@@ -1,0 +1,51 @@
+
+> smart-tractor-health-backend@1.0.0 dev
+> nodemon server.js
+
+[33m[nodemon] 3.1.14[39m
+[33m[nodemon] to restart at any time, enter `rs`[39m
+[33m[nodemon] watching path(s): *.*[39m
+[33m[nodemon] watching extensions: js,mjs,cjs,json[39m
+[32m[nodemon] starting `node server.js`[39m
+In-memory MongoDB connected
+Default admin created: admin@tractorai.com / Admin@123
+Backend running on http://localhost:5000
+[0mGET /api/health [32m200[0m 23.545 ms - 75[0m
+[0mPOST /api/auth/login [32m200[0m 903.951 ms - 433[0m
+[0mGET /api/sensors/dashboard [32m200[0m 158.158 ms - 10211[0m
+[0mGET /api/sensors/dashboard [36m304[0m 26.689 ms - -[0m
+[0mGET /api/sensors/dashboard [32m200[0m 12.715 ms - 10186[0m
+[0mGET /api/sensors/dashboard [32m200[0m 18.936 ms - 10155[0m
+[0mGET /api/sensors/dashboard [32m200[0m 36.425 ms - 10134[0m
+[0mGET /api/sensors/dashboard [32m200[0m 28.805 ms - 10169[0m
+[0mGET /api/sensors/dashboard [32m200[0m 11.543 ms - 10163[0m
+[0mGET /api/sensors/dashboard [32m200[0m 31.011 ms - 10176[0m
+[0mGET /api/sensors/history?limit=50 [32m200[0m 24.660 ms - 18646[0m
+[0mGET /api/sensors/history?limit=50 [36m304[0m 8.803 ms - -[0m
+[0mPUT /api/users/profile [32m200[0m 127.731 ms - 247[0m
+[0mGET /api/reports/download [32m200[0m 787.721 ms - -[0m
+[0mGET /api/sensors/dashboard [32m200[0m 24.377 ms - 10053[0m
+[0mGET /api/sensors/dashboard [36m304[0m 19.647 ms - -[0m
+[0mGET /api/sensors/dashboard [32m200[0m 13.404 ms - 10070[0m
+[0mGET /api/sensors/dashboard [32m200[0m 13.757 ms - 10012[0m
+[0mGET /api/health [32m200[0m 0.296 ms - 75[0m
+[0mGET /favicon.ico [33m404[0m 11.356 ms - 150[0m
+[0mGET /api/sensors/dashboard [32m200[0m 12.722 ms - 10031[0m
+[0mGET /api/sensors/dashboard [32m200[0m 12.993 ms - 10040[0m
+[0mGET /api/sensors/dashboard [32m200[0m 17.713 ms - 10023[0m
+[0mGET /api/sensors/dashboard [32m200[0m 23.111 ms - 10011[0m
+[0mGET /api/sensors/dashboard [32m200[0m 39.040 ms - 10027[0m
+[0mGET /api/sensors/dashboard [32m200[0m 33.013 ms - 9987[0m
+[0mGET /api/sensors/dashboard [32m200[0m 9.595 ms - 10014[0m
+[0mGET /api/sensors/dashboard [32m200[0m 15.424 ms - 10183[0m
+[0mGET /api/sensors/dashboard [32m200[0m 10.797 ms - 10178[0m
+[0mGET /api/sensors/dashboard [32m200[0m 15.682 ms - 10175[0m
+[0mGET /api/sensors/dashboard [32m200[0m 11.473 ms - 10028[0m
+[0mGET /api/sensors/dashboard [32m200[0m 19.887 ms - 10053[0m
+[0mGET /api/sensors/dashboard [32m200[0m 22.613 ms - 10263[0m
+[0mGET /api/sensors/dashboard [32m200[0m 21.698 ms - 10280[0m
+[0mGET /api/sensors/dashboard [32m200[0m 20.999 ms - 10268[0m
+[0mGET /api/sensors/dashboard [32m200[0m 63.124 ms - 10291[0m
+[31m[nodemon] app crashed - waiting for file changes before starting...[39m
+[32m[nodemon] restarting child process[39m
+[32m[nodemon] starting `node server.js`[39m
